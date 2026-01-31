@@ -27,6 +27,13 @@
   },
   "navigation": {
     "global": {
+      "languages": [
+        {
+          "language": "en",
+          "default": true,
+          "href": "https://mintlify.com"
+        }
+      ],
       "anchors": [
         {
           "anchor": "Documentation",
